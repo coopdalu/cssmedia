@@ -50,7 +50,7 @@ nav{
 @media screen and (min-width: 576px) {
     body {
         background-color:green;
-        background-image: radialGradient(whitesmoke,green);
+        background-image: radial-Gradient(whitesmoke,green);
     
     }
      nav{display: none;}    
@@ -61,7 +61,7 @@ nav{
 @media screen and (min-width: 768px) {
     body {
         background-color:gold;
-        background-image: radialGradient(whitesmoke,gold)
+        background-image: radial-Gradient(whitesmoke,gold)
     }
     
     
@@ -71,7 +71,7 @@ nav{
 @media screen and (min-width: 992px) {
     body {
         background-color:firebrick;
-        background-image: radialGradient(whitesmoke,firebrick)
+        background-image: radial-Gradient(whitesmoke,firebrick)
     }
     
     
@@ -80,7 +80,7 @@ nav{
 @media screen and (min-width: 1400px) {
     body {
         background-color:blue;
-        background-image: radialGradient(whitesmoke,blue)
+        background-image: radial-Gradient(whitesmoke,blue)
     }
     
     
@@ -89,7 +89,7 @@ nav{
 @media screen and (min-width: 425px) and (min-aspect-ratio:7/4) {
     body {
         background-color:dodgerblue;
-        background-image: radialGradient(whitesmoke,dodgerblue)
+        background-image: radial-Gradient(whitesmoke,dodgerblue)
     }
     
     h1,h2{font-size: 1.5rem;}
